@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.first {
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    padding: 13rem 0;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+    .first h1 {
+        color: #212529;
+        font-size: 88px;
+    }
+
+    .first h3 {
+        color: #212529;
+        font-size: 28px;
+        font-style: italic;
+        margin-bottom: 60px;
+    }
+
+    .first a {
+        color: #ffffff;
+        padding: 20px 40px;
+        font-size: 16px;
+        background-color: #1d809f;
+        border-radius: 5px;
+        font-weight: bold;
+        transition: .5s;
+    }
+
+        .first a:hover {
+            background-color: #1d609f;
+            padding: 20px 55px;
+        }
+.second{
+    text-align:center;
+    padding:4rem;
+}
+.second h2{
+    font-size:2rem;
+    color:#212529;
+}
+.second p{
+    font-size:20px;
+    color:#212529;
+    margin-bottom:40px;
+    margin-top:5px;
+
+}
+.second p a{
+    text-decoration:underline;
+}
+    .second .second_btn {
+        color: #fff;
+        padding: 20px 40px;
+        font-size: 16px;
+        background-color: #1c1f23;
+        border-radius: 5px;
+        font-weight: bold;
+        transition: .5s;
+    }
+        .second .second_btn:hover {
+            background-color: #1c1f39;
+            padding: 20px 55px;
+        }
+.third {
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    padding:13rem;
+    background-position:center;
+    background-size:cover;
+    background-attachment:fixed;
+}
+.third h2{
+    font-size:56px;
+    color:#212529;
+    margin:30px;
+}
+.third a {
+    color: #ffffff;
+    padding: 20px 40px;
+    font-size: 16px;
+    background-color: #1d809f;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: .5s;
+}
+
+    .third a:hover {
+        background-color: #1d609f;
+        padding: 20px 55px;
+    }
+.fourth{
+    text-align:center;
+    background-color:#1d809f;
+    padding:6rem 0rem;
+}
+.fourth h2{
+    font-size:32px;
+    color:#fff;
+    margin-bottom:40px;
+
+}
+    .f_btn1 {
+        color: black;
+        padding: 20px 40px;
+        font-size: 16px;
+        background-color: #fff;
+        border-radius: 5px;
+        font-weight: bold;
+        transition: .5s;
+        margin-right:5px;
+    }
+
+    .f_btn1:hover {
+        background-color: #1d609f;
+        padding: 20px 55px;
+    }
+
+.f_btn2 {
+    color: #fff;
+    padding: 20px 40px;
+    font-size: 16px;
+    background-color: #212529;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: .5s;
+    margin-left:5px;
+}
+
+    .f_btn2:hover {
+        background-color: #1d609f;
+        padding: 20px 55px;
+    }

@@ -1,0 +1,128 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.first {
+    background-color: #212529;
+    padding: 15px 24px 15px 50px;
+}
+    .first a {
+        color: #fff;
+        font-size: 20px;
+        margin: 0px 30px 0px 0px;
+        padding: 5px 0;
+        text-decoration:none;
+
+    }
+.second {
+    text-align: center;
+    background-color: #287EFD;
+    padding:100px 0px;
+}
+.second h1{
+    color:#fff;
+    font-size:45px;
+}
+.second p{
+    font-size:20px;
+    color:#fff;
+    margin-top:5px;
+    margin-bottom:28px;
+}
+.second a{
+    color:#000;
+    font-size:20px;
+    background-color:#f8f9fa;
+    padding:15px 20px;
+    text-decoration:none;
+    margin-top:5px;
+    border-radius:5px;
+}
+
+.fifth{
+    text-align:center;
+    padding:100px 0px;
+
+      
+}
+    .fifth h2 {
+        color: #212529;
+        font-size: 25px;
+        margin-top: 120px;
+        text-align: left;
+        margin-bottom:20px;
+        margin-left:180px;
+        
+        
+    }
+    .fifth p {
+        font-size: 20px;
+        margin-left: 180px;
+        margin-bottom: 20px;
+        text-align: justify;
+        margin-right: 180px;
+        color:#212529;
+    }
+    .fifth ul li {
+        list-style-position: inside;
+        
+    }
+    .fifth ul {
+        color: #212529;
+        font-size: 18px;
+        margin-left: 180px;
+        margin-bottom: 20px;
+        text-align: justify;
+        margin-right: 180px;
+    }
+    .sixth{
+        text-align:justify;
+        padding:100px 0px;
+    }
+        .sixth h2 {
+            color: #212529;
+            font-size: 25px;
+            margin-top: 120px;
+            text-align: left;
+            margin-bottom: 20px;
+            margin-left: 180px;
+        }
+        .sixth p {
+            font-size: 20px;
+            margin-left: 180px;
+            margin-bottom: 20px;
+            text-align: justify;
+            margin-right: 180px;
+            color: #212529;
+        }
+
+.seventh {
+    text-align: justify;
+    padding: 100px 0px;
+}
+
+    .seventh h2 {
+        color: #212529;
+        font-size: 25px;
+        margin-top: 120px;
+        text-align: left;
+        margin-bottom: 20px;
+        margin-left: 180px;
+    }
+
+    .seventh p {
+        font-size: 20px;
+        margin-left: 180px;
+        margin-bottom: 20px;
+        text-align: justify;
+        margin-right: 180px;
+        color: #212529;
+    }
+.eighth {
+    background-color: #212529;
+    padding: 30px 24px 30px 50px;
+}
+.eighth p{
+    color:#fff;
+    text-align:center;
+}
